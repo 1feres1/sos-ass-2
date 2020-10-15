@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding=" ISO-8859-1"?>
+<livre>
+    <title>Mybook</title>
+    
+    <sections>
+        <section>
+            <title>S 1</title>
+            <chapitres>
+                <chapitre>
+                    <title>Ch1</title>
+                    <paragraphes>
+                        <paragraphe>paragraphe</paragraphe>
+                        <paragraphe>paragraphe</paragraphe>
+                    </paragraphes>
+                </chapitre>
+                <chapitre>
+                    <title>Ch 2</title>
+                    <paragraphes>
+                        <paragraphe>paragraphe</paragraphe>
+                        <paragraphe>paragraphe</paragraphe>
+                    </paragraphes>
+                </chapitre>
+            </chapitres>
+        </section>
+        <section>
+            <title>S 2</title>
+            <chapitres>
+                <chapitre>
+                    <title>Ch 1</title>
+                    <paragraphes>
+                        <paragraphe>paragraphe</paragraphe>
+                        <paragraphe>paragraphe</paragraphe>
+                    </paragraphes>
+                </chapitre>
+                <chapitre>
+                    <title>Ch 2</title>
+                    <paragraphes>
+                        <paragraphe>paragraphe</paragraphe>
+                        <paragraphe>paragraphe</paragraphe>
+                    </paragraphes>
+                </chapitre>
+            </chapitres>
+        </section>
+    </sections>
+    <auteurs>
+        <auteur>
+            <nom>Rekik</nom>
+            <prenom>Mohamed</prenom>
+        </auteur>
+        <auteur>
+            <nom>Autre</nom>
+            <prenom>Auteur</prenom>
+        </auteur>
+    </auteurs>
+</livre>
+ 
+
+
+
+ 
+
+

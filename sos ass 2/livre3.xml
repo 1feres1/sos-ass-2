@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding=" ISO-8859-1"?>
+<p1:livre title="My book" xmlns:p1="http://www.masociete.com" xmlns:p2="http://www.monentreprise.com">
+    
+    <p1:sections>
+        <p1:section title="S1">
+            <p1:chapitre title="Ch1">
+                <p1:paragraphe>Premier paragraphe</p1:paragraphe>
+                <p1:paragraphe>Deuxième paragraphe</p1:paragraphe>
+            </p1:chapitre>
+        </p1:section>
+        <p2:section title="S2">
+            <p2:chapitre title="Ch1">
+                <p2:paragraphe>Premier paragraphe</p2:paragraphe>
+                <p2:paragraphe>Deuxième paragraphe</p2:paragraphe>
+            </p2:chapitre>
+            <p2:chapitre title="Ch2">
+                <p2:paragraphe>Premier paragraphe</p2:paragraphe>
+                <paragraphe>Deuxième paragraphe</paragraphe>
+            </p2:chapitre>
+        </p2:section>
+    </p1:sections>
+    <p1:auteurs>
+        <p1:auteur nom="feres" prenom="sakouhi" />
+        <p1:auteur nom="unknouwn" prenom="unknouwn" />
+    </p1:auteurs>
+</p1:livre>
+
+
+ 
+
+

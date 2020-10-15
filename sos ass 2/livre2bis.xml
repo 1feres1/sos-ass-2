@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding=" ISO-8859-1"?>
+<livre title="My book">
+    
+    <sections>
+        <section title="S 1">
+            <chapitre title="Ch 1">
+                <paragraphe>&lt;element id="10"&gt;&amp;gt;&lt;/element&gt;</paragraphe>
+                <paragraphe>
+                    <![CDATA[<element id="10">&gt;</element>]]>
+                </paragraphe>
+            </chapitre>
+            <chapitre title="Ch 2">
+                <paragraphe>&lt;element id="10"&gt;&amp;gt;&lt;/element&gt;</paragraphe>
+                <paragraphe>
+                    <![CDATA[<element id="10">&gt;</element>]]>
+                </paragraphe>
+            </chapitre>
+        </section>
+        <section title="S 2">
+            <chapitre title="Ch 1">
+                <paragraphe>&lt;element id="10"&gt;&amp;gt;&lt;/element&gt;</paragraphe>
+                <paragraphe>
+                    <![CDATA[<element id="10">&gt;</element>]]>
+                </paragraphe>
+            </chapitre>
+            <chapitre title="Ch 2">
+                <paragraphe>&lt;element id="10"&gt;&amp;gt;&lt;/element&gt;</paragraphe>
+                <paragraphe>
+                    <![CDATA[<element id="10">&gt;</element>]]>
+                </paragraphe>
+            </chapitre>
+        </section>
+    </sections>
+    <auteurs>
+        <auteur nom="Feres" prenom="sakouhi" />
+        <auteur nom="unknoun" prenom="unknoun" />
+    </auteurs>
+</livre>
+
+
+ 
+
+

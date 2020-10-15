@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding=" ISO-8859-1"?>
+<livre titre="my book ">
+    
+    <sections>
+        <section title="S 1">
+            <chapitre titre="Ch 1">
+                <paragraphe>Premier paragraphe</paragraphe>
+                <paragraphe>Deuxième paragraphe</paragraphe>
+            </chapitre>
+            <chapitre title="Ch 2">
+                <paragraphe>Premier paragraphe</paragraphe>
+                <paragraphe>Deuxième paragraphe</paragraphe>
+            </chapitre>
+        </section>
+        <section title="S 2">
+            <chapitre title="Ch 1">
+                <paragraphe>Premier paragraphe</paragraphe>
+                <paragraphe>Deuxième paragraphe</paragraphe>
+            </chapitre>
+            <chapitre title="Ch 2">
+                <paragraphe>Premier paragraphe</paragraphe>
+                <paragraphe>Deuxième paragraphe</paragraphe>
+            </chapitre>
+        </section>
+    </sections>
+    <auteurs>
+        <auteur nom="feres" prenom="Alexandre" />
+        <auteur nom="sakouhi" prenom="Aristide" />
+    </auteurs>
+</livre>
+
+
+ 
+
+
